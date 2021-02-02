@@ -1,15 +1,22 @@
+- company: 아이엔지스토리
+  position: Web Developer
+  duration: 2020.09 &mdash; 현재
+  category: Kiosk + Backoffice
+  language: javascript, php, MySQL, Node.js | AWS
+  summary: 
+
 - company: 프레시지
   position: Web Developer
-  duration: 2019.06 &mdash; 현재
+  duration: 2019.06 &mdash; 2020.08
   category: E-commerce
-  language: jQuery, php, MySQL, Gabia G-cloud
+  language: jQuery, php, MySQL | Gabia G-cloud
   summary: 기존에 낙후되어 있던 자사 쇼핑몰을 리뉴얼 후 런칭하였습니다. 가비아의 퍼스트몰 솔루션을 도입해 요구사항에 맞춘 커스텀 개발 작업을 하여 현재까지 운용 중입니다. 자사 특성에 따른 다양한 배송타입을 개발한 뒤 각 배송업체의 API와 연동하고, 새로운 디자인 시안을 전달받아 화면에 구현해내는 것이 저의 주된 업무였습니다. 현재는 회원 9만명, 일평균 방문자 수 2천명 규모의 사이트로 성장해 유지보수 중에 있습니다.
 
 - company: 유인케어
   position: Web Developer
   duration: 2017.08 &mdash; 2018.12
   category: Software backoffice
-  language: AngualrJS, php, MySQL, Microsoft Azure cloud
+  language: AngualrJS, php, MySQL | Microsoft Azure cloud
   summary: 3D 모션트래킹 기술을 이용한 헬스케어 응용 프로그램의 사용자&관리자 페이지를 개발하였습니다. 환자의 운동 스케줄을 일별로 세팅하고, 수행한 운동 데이터를 그래프 등으로 시각화하여 보여주는 것이 저의 업무였습니다. 미국-한국을 오가는 글로벌 서비스여서, 개발 시 랭귀지팩과 타임존을 고려하여야 했고, 환자의 의료적 민감정보 데이터와 그 외 데이터를 여러 데이터베이스로 나누어 관리하는 것도 주요 과제 중 하나였습니다. 또한, 응용프로그래머들과의 협업 경험도 축적 되었습니다.
 
 - company: 누비웹
